@@ -1,3 +1,8 @@
+/*
+ * ROFI Color theme
+ * NAME: quiet.rasi
+ */
+
 configuration {
     font: "Source Code Pro 12";
 }
